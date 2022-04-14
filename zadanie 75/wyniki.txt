@@ -1,0 +1,23 @@
+zadanie 1
+did
+desired
+destroyed
+devised
+
+zadanie 2
+wkqoocjqwo
+iujolqzzwr
+udwjtljuip
+tlcpgujurjqk
+yplcjdwotwr
+kqrrfwwcjtl
+mupmwjpqpg
+kqrrfwwcjtl
+wotchfqolwr
+
+zadanie 3
+('jeden', 'itqtu') klucz szyfrujacy - (3, 7), klucz deszyfrujący - (9, 15)
+('dwa', 'gzd') klucz szyfrujacy - (1, 3), klucz deszyfrujący - (1, 23)
+('trzy', 'zrxg') klucz szyfrujacy - (17, 14), klucz deszyfrujący - (23, 16)
+('cztery', 'otdcpm') klucz szyfrujacy - (7, 0), klucz deszyfrujący - (15, 0)
+('piec', 'yfjl') klucz szyfrujacy - (25, 13), klucz deszyfrujący - (25, 13)

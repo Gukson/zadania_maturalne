@@ -1,0 +1,2 @@
+44 - liczba ciągów arytmetycznych w pliku
+246849 - największa różnica

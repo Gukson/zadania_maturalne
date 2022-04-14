@@ -1,0 +1,10 @@
+zad 58.1
+-0b1011 - najmniejsza temperatura na S1
+-0b1001100 - najmniejsza temperatura na S2
+-0b1001011 - najmniejsza temperatura na S3
+zad 58.2
+182 -liczba niepoprawnych pomiarów czasu we wszystkich stacjach na raz
+zad 58.3 
+42 -ilość dni gdy przynajmniej jedna staxcja miała rekord
+zad 58.4
+25 - maksymany skok temperatury

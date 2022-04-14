@@ -1,0 +1,3 @@
+zadanie 62.1
+1002 - najmniejsza
+777044 - największa
